@@ -5,14 +5,14 @@
 
 ## Sobre mi
 - ⭐ GitHub Star ⭐
-- 💻 Desarrollador de software con experiencia en desarrollo web y móvil.
+- 💻 Desarrollador de software con experiencia en desarrollo web.
 - 🚀 Apasionado por la tecnología y la innovación.
 - 🤖 Entusiasta de la inteligencia artificial y el aprendizaje automático.
 - 🌍 Amante de los viajes y la exploración de nuevas culturas.
 - 📚 Comprometido con el aprendizaje continuo y el crecimiento personal y profesional.
 <br>
 
-## stack de desarrollo
+## Stack de desarrollo
 [![React Shield](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Node.js Shield](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Express Shield](https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=express)](https://expressjs.com/)
