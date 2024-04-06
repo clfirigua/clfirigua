@@ -13,7 +13,6 @@
 
 ## stack de desarrollo
 [![React Shield](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![AngularJS Shield](https://img.shields.io/badge/-AngularJS-red?style=for-the-badge&logo=angularjs)](https://angularjs.org/)
 [![Node.js Shield](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Express Shield](https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![NestJS Shield](https://img.shields.io/badge/-NestJS-red?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
