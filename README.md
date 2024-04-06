@@ -10,6 +10,9 @@
 - 🌍 Amante de los viajes y la exploración de nuevas culturas.
 - 📚 Comprometido con el aprendizaje continuo y el crecimiento personal y profesional.
 <br>
+
+## stack
+[![React Shield](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
