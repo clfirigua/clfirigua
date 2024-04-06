@@ -4,7 +4,6 @@
 <img src="https://imgur.com/i8myms6.png">
 
 ## Sobre mi
-- ⭐ GitHub Star ⭐
 - 💻 Desarrollador de software con experiencia en desarrollo web.
 - 🚀 Apasionado por la tecnología y la innovación.
 - 🤖 Entusiasta de la inteligencia artificial y el aprendizaje automático.
