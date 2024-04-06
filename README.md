@@ -22,6 +22,9 @@
 [![Docker Shield](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Socket.io Shield](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io)](https://socket.io/)
 [![Angular Shield](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)](https://angular.io/)
+[![GraphQL Shield](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)](https://graphql.org/)
+[![MongoDB Shield](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
