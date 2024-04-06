@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Carlos Firigua</a> 👋</h1>
 </div>
-<img src="https://imgur.com/PkgO1v6.png">
+<img src="https://imgur.com/i8myms6.png">
 
 ## Sobre mi
 - ⭐ GitHub Star ⭐
