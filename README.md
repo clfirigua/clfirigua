@@ -54,6 +54,31 @@
             </div>
         </td>
     </tr>
+        <tr>
+        <td width="50%">
+            <h3 align="center">Conan</h3>
+            <div align="center">
+                <p>
+                    <a href="https://angular.io/" target="_blank">
+                        <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular" alt="Angular Badge">
+                    </a>
+                    <a href="https://www.typescriptlang.org/" target="_blank">
+                        <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript Badge">
+                    </a>
+                    <a href="https://spring.io/projects/spring-boot" target="_blank">
+                        <img src="https://img.shields.io/badge/-Spring_Boot-6db33f?style=for-the-badge&logo=spring" alt="Spring Boot Badge">
+                    </a>
+                    <a href="https://www.mysql.com/" target="_blank">
+                        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL Badge">
+                    </a>
+                    <a href="https://yourprojectlink.com" target="_blank">
+                        <img src="https://img.shields.io/badge/Coordinador-ff69b4?style=for-the-badge" alt="Coordinador Badge">
+                    </a>
+                </p>
+                <p> la app para gestionar tus equipos de forma sencilla! Con Conan, podrás tener el control total sobre el estado de tus equipos, optimizando así tus operaciones. Simplifica tu gestión con Conan y comienza a disfrutar de sus beneficios ahora mismo.</p>
+            </div>
+        </td>
+    </tr>
 </table>
 
 
