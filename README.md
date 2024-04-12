@@ -23,6 +23,11 @@
 [![Angular Shield](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)](https://angular.io/)
 [![GraphQL Shield](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)](https://graphql.org/)
 [![MongoDB Shield](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Jira Badge](https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
+[![Trello Badge](https://img.shields.io/badge/-Trello-green?style=for-the-badge&logo=trello)](https://trello.com/)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
