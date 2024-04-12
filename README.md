@@ -32,7 +32,7 @@
 <table>
     <tr>
         <td width="50%">
-            <h3 align="center">Sime</h3>
+            <h3 align="center">SIME</h3>
             <div align="center">
                 <p>
                     <a href="https://angular.io/" target="_blank">
@@ -57,7 +57,7 @@
     </tr>
     <tr>
         <td width="50%">
-            <h3 align="center">Conan</h3>
+            <h3 align="center">CONAN</h3>
             <div align="center">
                 <p>
                     <a href="https://angular.io/" target="_blank">
