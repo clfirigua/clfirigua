@@ -29,7 +29,7 @@
 
 ## Proyectos
 
-<table>
+<table width="100%">
     <tr>
         <td width="50%">
             <h3 align="center">Sime</h3>
@@ -54,8 +54,7 @@
                 <p>Sistema de monitoreo Energético: herramienta en la nube que facilita la administración de la matriz energética de una zona industrial, mediante la ingesta de datos de varias fuentes de información, procesamiento.</p>
             </div>
         </td>
-    </tr>
-    <tr>
+        
         <td width="50%">
             <h3 align="center">Conan</h3>
             <div align="center">
@@ -81,6 +80,7 @@
         </td>
     </tr>
 </table>
+
 
 
 
