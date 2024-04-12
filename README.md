@@ -33,28 +33,25 @@
         <td width="50%">
             <h3 align="center">Sime</h3>
             <div align="center">
-                <a  target="_blank">
-                <img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
                 <p>
-                    <a target="_blank">
-                        [![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)](https://angular.io/)
+                    <a href="https://angular.io/" target="_blank">
+                        <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular" alt="Angular Badge">
                     </a>
-                    <a  target="_blank">
-                        [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+                    <a href="https://www.typescriptlang.org/" target="_blank">
+                        <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript Badge">
                     </a>
-                    <a  target="_blank">
-                       [![Spring Boot Badge](https://img.shields.io/badge/-Spring_Boot-6db33f?style=for-the-badge&logo=spring)](https://spring.io/projects/spring-boot)
+                    <a href="https://spring.io/projects/spring-boot" target="_blank">
+                        <img src="https://img.shields.io/badge/-Spring_Boot-6db33f?style=for-the-badge&logo=spring" alt="Spring Boot Badge">
                     </a>
-                    <a  target="_blank">
-                       [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+                    <a href="https://www.mysql.com/" target="_blank">
+                        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL Badge">
                     </a>
-                    <a  target="_blank">
-                       [![Coordinador Badge](https://img.shields.io/badge/Coordinador-ff69b4?style=for-the-badge)](https://yourprojectlink.com)
+                    <a href="https://yourprojectlink.com" target="_blank">
+                        <img src="https://img.shields.io/badge/Coordinador-ff69b4?style=for-the-badge" alt="Coordinador Badge">
                     </a>
                 </p>
                 <p>Sistema de monitoreo Energético: herramienta en la nube que facilita la administración de la matriz energética de una zona industrial, mediante la ingesta de datos de varias fuentes de información, procesamiento.</p>
             </div>
-
         </td>
     </tr>
 </table>
