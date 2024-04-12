@@ -28,6 +28,7 @@
 [![Trello Badge](https://img.shields.io/badge/-Trello-green?style=for-the-badge&logo=trello)](https://trello.com/)
 
 ## Proyectos
+
 <table>
     <tr>
         <td width="50%">
@@ -54,7 +55,7 @@
             </div>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td width="50%">
             <h3 align="center">Conan</h3>
             <div align="center">
@@ -75,11 +76,12 @@
                         <img src="https://img.shields.io/badge/Coordinador-ff69b4?style=for-the-badge" alt="Coordinador Badge">
                     </a>
                 </p>
-                <p> la app para gestionar tus equipos de forma sencilla! Con Conan, podrás tener el control total sobre el estado de tus equipos, optimizando así tus operaciones. Simplifica tu gestión con Conan y comienza a disfrutar de sus beneficios ahora mismo.</p>
+                <p>La app para gestionar tus equipos de forma sencilla! Con Conan, podrás tener el control total sobre el estado de tus equipos, optimizando así tus operaciones. Simplifica tu gestión con Conan y comienza a disfrutar de sus beneficios ahora mismo.</p>
             </div>
         </td>
     </tr>
 </table>
+
 
 
 
